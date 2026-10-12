@@ -1,0 +1,103 @@
+{
+    "1": [
+            "What year was the U of M established?",
+        [
+            "1803",
+            "1812",
+            "1851",
+            "1923"
+        ],
+            "3"
+    ],
+    "2": [
+            "Who is the current U of M president?",
+        [
+            "Joan T.A. Gabel",
+            "Rebecca Cunningham",
+            "Robert H. Bruininks",
+            "Eric Kaler",
+            "William Watts Folwell"
+        ],
+            "2"
+    ],
+    "3": [
+            "True or False: The U of M is a member of the Big Ten Conference.",
+        [
+            "True",
+            "False"
+        ],
+            "1"
+    ],
+    "4": [
+            "What was the U of M's ranking in the 2024 Academic Ranking of World Universities?",
+        [
+            "1st",
+            "3rd",
+            "10th",
+            "26th"
+        ],
+            "4"
+    ],
+    "5": [
+            "How many major academic units (e.g., colleges, schools, etc.) make up the U of M Twin Cities?",
+        [
+            "1",
+            "7",
+            "19",
+            "25"
+        ],
+            "3"
+    ],
+    "6": [
+            "What is the approximate size of the Fall 2025 freshman class?",
+        [
+            "5,200",
+            "7,100",
+            "8,500",
+            "11,300"
+        ],
+            "2"
+    ],
+    "7": [
+            "What year was CSE established?",
+        [
+            "1851",
+            "1935",
+            "1949",
+            "1960"
+        ],
+            "2"
+    ],
+    "8": [
+            "How many academic departments does CSE have?",
+        [
+            "5",
+            "8",
+            "12",
+            "17"
+        ],
+            "3"
+    ],
+    "9": [
+            "Which city does not have a U of M campus?",
+        [
+            "Crookston",
+            "Duluth",
+            "Morris",
+            "Rochester",
+            "St. Cloud",
+            "Twin Cities"
+        ],
+            "5"
+    ],
+    "10": [
+            "How large is the U of M Twin Cities campus (in acres)?",
+        [
+            "2,730",
+            "3,610",
+            "5,450",
+            "7,080"
+        ],
+            "1"
+    ]
+}
